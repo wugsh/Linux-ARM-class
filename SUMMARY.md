@@ -6,4 +6,5 @@
 * [第三章 Linux在ARM上的启动流程](di-san-zhang-linux-zai-arm-shang-de-qi-dong-liu-cheng.md)
 * [第四章 ARM存储系统](di-si-zhang-arm-cun-chu-xi-tong.md)
 * [第五章 ARM的中断处理](di-wu-zhang-arm-de-zhong-duan-chu-li.md)
+* [第六章 嵌套汇编的使用](di-liu-zhang-qian-tao-hui-bian-de-shi-yong.md)
 
