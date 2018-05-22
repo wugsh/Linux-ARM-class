@@ -11,4 +11,5 @@
 * [实验 QEMU运行ARM Linux内核](shi-yan-shi-qemu-yun-xing-arm-linux-nei-he.md)
 * [实验 QEMU 调试 ARM Linux](shi-yan-qemu-diao-shi-arm-linux.md)
 * [实验 在Linux 4.x内核中增加系统调用](shi-yan-shi-zai-linux-4-x-nei-he-zhong-zeng-jia-xi-tong-diao-yong.md)
+* [课程讲义](ke-cheng-jiang-yi.md)
 
