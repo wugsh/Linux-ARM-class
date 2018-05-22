@@ -7,5 +7,5 @@
 ##第四章 ARM存储系统
 <script async class="speakerdeck-embed" data-id="e50b5ec4c8e343a5ae6430519e2bd77e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-##第五章 LINUX中断和中断处理程序
+##第五章 中断和中断处理程序
 <script async class="speakerdeck-embed" data-id="ee4b8dd60f40474b806ce5f373dd8b51" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
