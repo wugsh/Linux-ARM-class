@@ -1,4 +1,3 @@
-# 第一章： ARM 平台的 Linux 内核编译及其相关工具的使用 #
 
 # Bootloader：uboot #
 ## 1.1. Bootloader ##
