@@ -9,4 +9,5 @@
 * [第六章 嵌套汇编的使用](di-liu-zhang-qian-tao-hui-bian-de-shi-yong.md)
 * [实验 GDB调试](shi-yan-gdb-diao-shi.md)
 * [实验室 QEMU运行ARM Linux内核](shi-yan-shi-qemu-yun-xing-arm-linux-nei-he.md)
+* [实验 QEMU 调试 ARM Linux](shi-yan-qemu-diao-shi-arm-linux.md)
 
