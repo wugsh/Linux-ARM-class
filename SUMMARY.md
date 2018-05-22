@@ -8,6 +8,7 @@
 * [第五章 ARM的中断处理](di-wu-zhang-arm-de-zhong-duan-chu-li.md)
 * [第六章 嵌套汇编的使用](di-liu-zhang-qian-tao-hui-bian-de-shi-yong.md)
 * [实验 GDB调试](shi-yan-gdb-diao-shi.md)
-* [实验室 QEMU运行ARM Linux内核](shi-yan-shi-qemu-yun-xing-arm-linux-nei-he.md)
+* [实验 QEMU运行ARM Linux内核](shi-yan-shi-qemu-yun-xing-arm-linux-nei-he.md)
 * [实验 QEMU 调试 ARM Linux](shi-yan-qemu-diao-shi-arm-linux.md)
+* [实验 在Linux 4.x内核中增加系统调用](shi-yan-shi-zai-linux-4-x-nei-he-zhong-zeng-jia-xi-tong-diao-yong.md)
 
